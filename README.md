@@ -1,2 +1,3 @@
-# spike-chrm
-Spike with Jetpack Compose, Hilt, Retrofit and Moshi
+# Simple Spike with Jetpack Compose, Hilt, Retrofit and Moshi
+
+The Spike is a minimal setup of the libraries.
